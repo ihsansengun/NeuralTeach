@@ -66,6 +66,35 @@ The project uses a custom neural-inspired design system featuring:
 - **Color Palette**: Purple, blue, green, and orange accents
 - **Smooth Animations**: CSS transitions and keyframe animations
 
+## Deployment
+
+This project is configured for deployment on Vercel.
+
+### Deploy to Vercel
+
+1. Install Vercel CLI (if not already installed):
+```bash
+npm i -g vercel
+```
+
+2. Link your local project to Vercel:
+```bash
+vercel link
+```
+
+3. Follow the prompts to select your project.
+
+4. Deploy to production:
+```bash
+vercel --prod
+```
+
+This will create a production deployment and provide you with a live URL.
+
+### One-Click Deploy
+
+You can also deploy directly from GitHub by connecting your repository to Vercel at [vercel.com](https://vercel.com).
+
 ## Contributing
 
 1. Fork the repository
