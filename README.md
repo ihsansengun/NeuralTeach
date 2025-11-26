@@ -2,6 +2,10 @@
 
 A modern AI-powered learning platform with neural-inspired design and interactive educational companions.
 
+## Live Demo
+
+Check out the live demo: [https://ai-teacher-sass.vercel.app/](https://ai-teacher-sass.vercel.app/)
+
 ## Features
 
 - **AI Learning Companions**: Interactive AI tutors for different subjects
